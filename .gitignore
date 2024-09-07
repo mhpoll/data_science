@@ -3,3 +3,5 @@
 *.xlsx
 *.txt
 *.parquet
+*.csv
+*.Identifier
